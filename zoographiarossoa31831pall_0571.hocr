@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./zoographiarossoa31831pall_0571.png"; bbox 0 0 2707 2244; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 166 61 2530 1820">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 166 61 2530 1820">
+     <span class='ocr_line' id='line_1_1' title="bbox 166 61 2530 1820; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 166 61 2530 1820; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1090 1849 1596 1930">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1090 1849 1596 1930">
+     <span class='ocr_line' id='line_1_2' title="bbox 1090 1849 1596 1930; baseline -0.024 -22"><span class='ocrx_word' id='word_1_2' title='bbox 1090 1874 1114 1902; x_wconf 63' lang='lat'><em>(²</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1151 1854 1249 1930; x_wconf 45' lang='lat' dir='ltr'><em>dyst</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1260 1879 1345 1904; x_wconf 68' lang='lat' dir='ltr'><em>Mul</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1372 1856 1513 1900; x_wconf 48' lang='lat' dir='ltr'><em>-7flastn</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1529 1849 1596 1898; x_wconf 43' lang='lat' dir='ltr'><em>ss&#39;l.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2212 1956 2405 1978">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2212 1956 2405 1978">
+     <span class='ocr_line' id='line_1_3' title="bbox 2212 1956 2405 1978; baseline -0.036 1"><span class='ocrx_word' id='word_1_7' title='bbox 2212 1956 2360 1978; x_wconf 40' lang='lat' dir='ltr'><em>flamma..</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 2367 1965 2405 1974; x_wconf 45' lang='lat'><em>,¹2</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

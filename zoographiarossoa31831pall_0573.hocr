@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./zoographiarossoa31831pall_0573.png"; bbox 0 0 2256 2951; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 21 28 1991 2766">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 21 28 1991 2766">
+     <span class='ocr_line' id='line_1_1' title="bbox 21 28 1991 2766; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 21 28 1991 2766; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2013 1278 2076 1732">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2013 1278 2076 1732">
+     <span class='ocr_line' id='line_1_2' title="bbox 2013 1278 2076 1732; textangle 90"><span class='ocrx_word' id='word_1_2' title='bbox 2048 1726 2056 1732; x_wconf 54' lang='grc' dir='ltr'>ν</span> <span class='ocrx_word' id='word_1_3' title='bbox 2013 1504 2070 1691; x_wconf 46' lang='grc' dir='ltr'><em>ὧὶβκιηψ</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 2061 1482 2068 1489; x_wconf 85' lang='grc'><strong>.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 2026 1330 2075 1467; x_wconf 44' lang='lat' dir='ltr'><em>‘sebasia</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 2032 1278 2076 1313; x_wconf 65' lang='grc'><em>7.)</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2192 323 2216 504">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2192 323 2216 504">
+     <span class='ocr_line' id='line_1_3' title="bbox 2192 323 2216 504; textangle 90"><span class='ocrx_word' id='word_1_7' title='bbox 2192 361 2215 504; x_wconf 63' lang='grc' dir='ltr'><em>ᾸΖσῆνηινηΙ</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 2204 323 2216 356; x_wconf 69' lang='lat' dir='ltr'><em>Ac</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

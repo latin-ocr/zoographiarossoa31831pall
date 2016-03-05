@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./zoographiarossoa31831pall_0018.png"; bbox 0 0 2185 2890; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 816 1064 1639 1164">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 816 1064 1639 1164">
+     <span class='ocr_line' id='line_1_1' title="bbox 816 1064 1639 1108; baseline 0 -11"><span class='ocrx_word' id='word_1_1' title='bbox 816 1065 911 1098; x_wconf 86' lang='lat' dir='ltr'>Nunc</span> <span class='ocrx_word' id='word_1_2' title='bbox 934 1068 1019 1105; x_wconf 80' lang='lat' dir='ltr'><strong>juvat</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1042 1064 1187 1095; x_wconf 86' lang='lat' dir='ltr'>immensi</span> <span class='ocrx_word' id='word_1_4' title='bbox 1210 1065 1288 1096; x_wconf 82' lang='lat' dir='ltr'>fines</span> <span class='ocrx_word' id='word_1_5' title='bbox 1312 1066 1444 1096; x_wconf 72' lang='lat' dir='ltr'>lustrare</span> <span class='ocrx_word' id='word_1_6' title='bbox 1469 1067 1639 1108; x_wconf 79' lang='lat' dir='ltr'><strong>profundi,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 816 1120 1571 1164; baseline -0.003 -11"><span class='ocrx_word' id='word_1_7' title='bbox 816 1122 942 1164; x_wconf 82' lang='lat' dir='ltr'>Perque</span> <span class='ocrx_word' id='word_1_8' title='bbox 965 1121 1150 1164; x_wconf 77' lang='lat' dir='ltr'>processosas</span> <span class='ocrx_word' id='word_1_9' title='bbox 1173 1131 1280 1151; x_wconf 78' lang='lat' dir='ltr'>errare</span> <span class='ocrx_word' id='word_1_10' title='bbox 1304 1120 1446 1151; x_wconf 68' lang='lat' dir='ltr'>hcenfius</span> <span class='ocrx_word' id='word_1_11' title='bbox 1470 1122 1571 1151; x_wconf 76' lang='lat' dir='ltr'>undas</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1398 1191 1623 1223">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1398 1191 1623 1223">
+     <span class='ocr_line' id='line_1_3' title="bbox 1398 1191 1623 1223; baseline 0.004 -2"><span class='ocrx_word' id='word_1_12' title='bbox 1398 1191 1623 1223; x_wconf 61' lang='lat' dir='ltr'>SANNAZAR.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
